@@ -1,4 +1,4 @@
-# ProductionStation-Playstation: Automated Manufacturing Line
+# Production Station of Playstation: Automated Manufacturing Line
 
 This repository presents the implementation of an automated manufacturing line for Playstation consoles. This project demonstrates the lifecycle of production, integrating automation concepts, quality assurance, and modular design principles.
 
